@@ -1,0 +1,208 @@
+<!DOCTYPE HTML>
+<html>
+
+    <head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<meta name="description" content="Your description">
+	<meta name="author" content="Your name">
+	<meta name="generator" content="Hugo 0.75.1" />
+	<title>Fourth lab &middot; UCI blog - T.A.</title>
+	<!-- Stylesheets -->
+	
+	<link rel="stylesheet" href="https://adrientriquet.github.io/css/main.css"/>
+	
+	
+
+	
+
+	<!-- Custom Fonts -->
+	<link href="https://adrientriquet.github.io/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+	
+	<link rel="shortcut icon" type="image/x-icon" href="https://adrientriquet.github.io/favicon.ico">
+	<link rel="icon" type="image/x-icon" href="https://adrientriquet.github.io/favicon.ico">
+	
+
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+	<script src="js/ie/html5shiv.js"></script>
+	<script src="js/ie/html5shiv.jsrespond.min.js"></script>
+	<![endif]-->
+</head>
+
+    <body>
+
+    <!-- Wrapper -->
+        <div id="wrapper">
+
+            <!-- Header -->
+    <header id="header" class="alt">
+        <a href="https://adrientriquet.github.io/" class="logo"><strong>Triquet Adrien - VAR</strong> <span>UCI module</span></a>
+        <nav>
+            <a href="#menu">Menu</a>
+        </nav>
+    </header>
+
+<!-- Menu -->
+    <nav id="menu">
+        <ul class="links">
+            
+                <li><a href="https://adrientriquet.github.io/">Home</a></li>
+            
+                <li><a href="https://adrientriquet.github.io/lab_index">Labs</a></li>
+            
+                <li><a href="https://adrientriquet.github.io/lectures_index">Lectures</a></li>
+            
+                <li><a href="https://github.com/AdrienTriquet/AdrienTriquet.github.io">Repository</a></li>
+            
+                <li><a href="https://adrientriquet.github.io/elements.html"></a></li>
+            
+
+        </ul>
+        <ul class="actions vertical">
+            
+                <li><a href="https://adrientriquet.github.io/presentation" class="button special fit">Who am I ?</a></li>
+            
+            
+        </ul>
+    </nav>
+
+        <!-- Main -->
+            <div id="main" class="alt">
+
+                
+                    <section id="one">
+                        <div class="inner">
+                            <header class="major">
+                                <h1>Fourth lab</h1>
+                            </header>
+                            
+                            <p><strong>On last lab, I followed a tutorial to create a basic game. This lab is made to play that game on
+a mobile.</strong></p>
+<h2 id="setup">Setup</h2>
+<p>Once more, I have an iphone and a mac (great &hellip;). I then had to emulate android on it, and that actually worked
+pretty find &hellip; until one point. <strong>Let&rsquo;s see what happened.</strong></p>
+<ul>
+<li>
+<h4 id="what-i-had-to-do">What I had to do</h4>
+</li>
+</ul>
+<p>I of course followed the instruction of the lab to prepare the entire environment. It was a bit long
+on my computer, but it worked find ! Indeed, wa had to go to build setting and to switch platform to Android and then to
+change the player settings?</p>
+<ul>
+<li>
+<h4 id="what-i-messed-up">What I messed up</h4>
+</li>
+</ul>
+<p>My only main mistake what to delete the &lsquo;user.keystore&rsquo; on my desktop that actually enables to build the android app (it
+had been configure thought the player settings).
+I took me long to understand this &ldquo;missing password&rdquo; error.</p>
+<ul>
+<li>
+<h4 id="mobile-input">Mobile input</h4>
+</li>
+</ul>
+<p>Then, I build the application and I started it in the emulator. Great !</p>
+<ul>
+<li>
+<h4 id="a-fail-about-gyroscope-on-emulator">A fail about gyroscope on emulator</h4>
+</li>
+</ul>
+<p>I had no possibility to emulate the gyroscope as it was depicted in the lab.
+I started to look on the internet and saw it was only on the last version and very strangely, I had a
+quite older one ! So I installed a new bluestack version, the same one used in the lab tutorial.</p>
+<p>Moreover, from time to time, bluestack did not wanted to launch :</p>
+<p><img src="/images/bluestack.png" alt="GitHub Logo"></p>
+<p>In any case, it still did not worked. The version used by our teachers must have been on PC.
+Here is what I should find vs what I had :</p>
+<p><img src="/images/bluestack3.png" alt="GitHub Logo">
+<img src="/images/bluestack2.png" alt="GitHub Logo"></p>
+<p>As you can see, there is no menu to enable a gyroscope. The application cannot be used for this need.
+<strong>Summary : do not use bluestack on mac for this lab !</strong></p>
+<ul>
+<li>
+<h4 id="a-solution--use-an-android-phone">A solution : use an android phone</h4>
+</li>
+</ul>
+<p>Then, the ones with a combo iphone-mac tried together to find a solution (version,
+other simulator, &hellip;). However, it then seemed simpler to simply &hellip; borrow someone else&rsquo;s phone !</p>
+<p>I then followed again the tutorial, about building the game on a plugged phone and it worked find !</p>
+<ul>
+<li>
+<h4 id="final-result">Final result</h4>
+</li>
+</ul>
+<p>I let you have a look on this video :
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/91T9nSWuofM?autoplay=1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+</p>
+<h2 id="code-link">Code link</h2>
+<p><a href="https://github.com/AdrienTriquet/Rool-a-ball---mobile">https://github.com/AdrienTriquet/Rool-a-ball---mobile</a></p>
+<h2 id="index">Index</h2>
+<h4 id="next-">Next :</h4>
+<p><a href="https://adrientriquet.github.io/10_lecture/" title="Tenth lecture">Tenth lecture</a>
+<a href="https://adrientriquet.github.io/fifth_lab/" title="Fifth lab">Fifth lab</a></p>
+<h4 id="list-">List :</h4>
+<p><a href="https://adrientriquet.github.io/lectures_index/" title="Index lecture">Index lecture</a>,
+<a href="https://adrientriquet.github.io/lab_index/" title="Index lab">Index lab</a></p>
+
+                        </div>
+                    </section>
+            <!-- Disqus Inject -->
+                
+            </div>
+            
+        <!-- Footer -->
+            
+                <!-- Footer -->
+    <footer id="footer">
+        <div class="inner">
+            <ul class="icons">
+                
+                    <li><a href="linkedin.com/in/adrien-triquet" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
+                
+                    <li><a href="https://github.com/AdrienTriquet" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+                
+                    <li><a href="https://www.facebook.com/atriquet1" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
+                
+                    <li><a href="https://www.instagram.com/adrientriquet" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
+                
+            </ul>
+            <ul class="copyright">
+                <li>&copy; Triquet Adrien</li>
+                
+                <li>Design:  <a href="https://www.html5up.net">HTML5 UP</a></li>
+                
+            </ul>
+        </div>
+    </footer>
+
+            
+        </div>
+
+    <!-- Scripts -->
+        <!-- Scripts -->
+    <!-- jQuery -->
+    <script src="https://adrientriquet.github.io/js/jquery.min.js"></script>
+    <script src="https://adrientriquet.github.io/js/jquery.scrolly.min.js"></script>
+    <script src="https://adrientriquet.github.io/js/jquery.scrollex.min.js"></script>
+    <script src="https://adrientriquet.github.io/js/skel.min.js"></script>
+    <script src="https://adrientriquet.github.io/js/util.js"></script>
+
+    
+
+    <!-- Main JS -->
+    <script src="https://adrientriquet.github.io/js/main.js"></script>
+
+    
+
+    
+
+    </body>
+</html>
