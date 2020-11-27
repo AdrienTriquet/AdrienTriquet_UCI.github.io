@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UCI blog - T.A.</title>
-    <link>https://adrientriquet.github.io/</link>
+    <link>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/</link>
     <description>Recent content on UCI blog - T.A.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://adrientriquet.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Presentation</title>
-      <link>https://adrientriquet.github.io/presentation/</link>
+      <link>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/presentation/</link>
       <pubDate>Thu, 15 Oct 2020 16:46:54 +0200</pubDate>
       
-      <guid>https://adrientriquet.github.io/presentation/</guid>
+      <guid>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/presentation/</guid>
       <description>Welcome here, I am Adrien Triquet.   I am a last year engineering student at Telecom SudParis. I am currently studying image processing, with work in artificial intelligence and deep learning. In addition, I am attending a second diploma, a master&amp;rsquo;s degree from the Polytechnic Institute of Paris in virtual and augmented reality.
   What is the purpose of this blog ?   This blog is meant to group all my &amp;lsquo;Human Computer Interaction&amp;rsquo; works.</description>
     </item>
     
     <item>
       <title>Twelfth lecture</title>
-      <link>https://adrientriquet.github.io/12_lecture/</link>
+      <link>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/12_lecture/</link>
       <pubDate>Fri, 09 Oct 2020 12:39:20 +0200</pubDate>
       
-      <guid>https://adrientriquet.github.io/12_lecture/</guid>
+      <guid>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/12_lecture/</guid>
       <description>For this last lecture, I will imagine three applications that would be most downloaded in a world where smartphone and MR HMD would be equally sold.
 Context To my mind, such a world inherit hypothesis of how things will be. First of all, I don&amp;rsquo;t think people would wear heavy headset like the current oculus for instance. However, we can imagine glasses.
 I think that because, to my mind, the purpose would be to improve current habits or uses.</description>
@@ -29,10 +29,10 @@ I think that because, to my mind, the purpose would be to improve current habits
     
     <item>
       <title>Eleventh lecture</title>
-      <link>https://adrientriquet.github.io/11_lecture/</link>
+      <link>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/11_lecture/</link>
       <pubDate>Fri, 09 Oct 2020 12:39:15 +0200</pubDate>
       
-      <guid>https://adrientriquet.github.io/11_lecture/</guid>
+      <guid>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/11_lecture/</guid>
       <description>For this lecture, I read the paper : &amp;ldquo;The computer for the 21st century&amp;rdquo; by Mark Weiser
 Source : https://www.lri.fr/~mbl/Stanford/CS477/papers/Weiser-SciAm.pdf
 The purpose is to answer two questions (sorry for the huge block of text) :
@@ -41,10 +41,10 @@ Are we already living in a world of ubiquitous computing ? The text It would be 
     
     <item>
       <title>Tenth lecture</title>
-      <link>https://adrientriquet.github.io/10_lecture/</link>
+      <link>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/10_lecture/</link>
       <pubDate>Fri, 09 Oct 2020 12:39:10 +0200</pubDate>
       
-      <guid>https://adrientriquet.github.io/10_lecture/</guid>
+      <guid>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/10_lecture/</guid>
       <description>The evolution of the shape   To my mind, here was the evolution :
   They were big at first because of technical issues. To fit all the components inside, as simple they may seem today, that much space was needed. Moreover, first cellphones were (already) wealth indicator. Many people wanted to show they had one when they did.
   Then they started to get smaller as it was possible.</description>
@@ -52,10 +52,10 @@ Are we already living in a world of ubiquitous computing ? The text It would be 
     
     <item>
       <title>Fifth lab</title>
-      <link>https://adrientriquet.github.io/fifth_lab/</link>
+      <link>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/fifth_lab/</link>
       <pubDate>Wed, 30 Sep 2020 15:17:03 +0200</pubDate>
       
-      <guid>https://adrientriquet.github.io/fifth_lab/</guid>
+      <guid>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/fifth_lab/</guid>
       <description>For this lab, we aim to play our &amp;lsquo;Roll a ball&amp;rsquo; game in VR !
 To do this, I used Occulus Rift and hand command from our school in Evry. We tested them at first to be sure they were ready. I did not face issues excepted for batteries.
 Then came the problems.
@@ -64,10 +64,10 @@ Then came the problems.
     
     <item>
       <title>Fourth lab</title>
-      <link>https://adrientriquet.github.io/fourth_lab/</link>
+      <link>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/fourth_lab/</link>
       <pubDate>Wed, 30 Sep 2020 15:16:52 +0200</pubDate>
       
-      <guid>https://adrientriquet.github.io/fourth_lab/</guid>
+      <guid>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/fourth_lab/</guid>
       <description>On last lab, I followed a tutorial to create a basic game. This lab is made to play that game on a mobile.
 Setup Once more, I have an iphone and a mac (great &amp;hellip;). I then had to emulate android on it, and that actually worked pretty find &amp;hellip; until one point. Let&amp;rsquo;s see what happened.
   What I had to do   I of course followed the instruction of the lab to prepare the entire environment.</description>
@@ -75,10 +75,10 @@ Setup Once more, I have an iphone and a mac (great &amp;hellip;). I then had to 
     
     <item>
       <title>Lab index</title>
-      <link>https://adrientriquet.github.io/lab_index/</link>
+      <link>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/lab_index/</link>
       <pubDate>Tue, 29 Sep 2020 14:52:57 +0200</pubDate>
       
-      <guid>https://adrientriquet.github.io/lab_index/</guid>
+      <guid>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/lab_index/</guid>
       <description>First lab
 Third lab
 Fourth lab
@@ -87,10 +87,10 @@ Fifth lab</description>
     
     <item>
       <title>Lectures index</title>
-      <link>https://adrientriquet.github.io/lectures_index/</link>
+      <link>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/lectures_index/</link>
       <pubDate>Tue, 29 Sep 2020 14:52:50 +0200</pubDate>
       
-      <guid>https://adrientriquet.github.io/lectures_index/</guid>
+      <guid>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/lectures_index/</guid>
       <description>First lecture
 Second lecture
 Third lecture
@@ -107,10 +107,10 @@ Twelfth lecture</description>
     
     <item>
       <title>Third lab</title>
-      <link>https://adrientriquet.github.io/third_lab/</link>
+      <link>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/third_lab/</link>
       <pubDate>Thu, 24 Sep 2020 16:57:10 +0200</pubDate>
       
-      <guid>https://adrientriquet.github.io/third_lab/</guid>
+      <guid>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/third_lab/</guid>
       <description>After two labs of set-up, let&amp;rsquo;s create a game ! I picked &amp;lsquo;Roll a ball&amp;rsquo; and I followed all the different steps to finish with my own game.
 Here was the beginning of the project.
 I then arrived here.
@@ -121,10 +121,10 @@ Look at this amazing blue ;).</description>
     
     <item>
       <title>Ninth lecture</title>
-      <link>https://adrientriquet.github.io/9_lecture/</link>
+      <link>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/9_lecture/</link>
       <pubDate>Thu, 24 Sep 2020 16:56:54 +0200</pubDate>
       
-      <guid>https://adrientriquet.github.io/9_lecture/</guid>
+      <guid>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/9_lecture/</guid>
       <description>Interview   I wanted to start with a small interview, my presentation of the product is not written of course.
 Adrien : Thanks for answering those question about my prototype, I am going to show it to you and you will give me on the moment your impressions. Ok ?
 Julie : yes let&amp;rsquo;s go.
@@ -134,20 +134,20 @@ Julie : I find it is a good initiative. However, I have a few comments.</descrip
     
     <item>
       <title>8_lecture</title>
-      <link>https://adrientriquet.github.io/8_lecture/</link>
+      <link>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/8_lecture/</link>
       <pubDate>Thu, 24 Sep 2020 16:56:50 +0200</pubDate>
       
-      <guid>https://adrientriquet.github.io/8_lecture/</guid>
+      <guid>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/8_lecture/</guid>
       <description>Ad   To present my prototype, I have done what I love to : a video. To give rhythm to all of this, I did a false ad of it ! The company name is &amp;ldquo;Hisee&amp;rdquo; (because with Hisee, I see &amp;hellip; or something like this !).
 Here it is, you can see very precisely the user exposure for deaf people :   Actually this device works either for deaf or blinded with few differences.</description>
     </item>
     
     <item>
       <title>Seventh lecture</title>
-      <link>https://adrientriquet.github.io/7_lecture/</link>
+      <link>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/7_lecture/</link>
       <pubDate>Thu, 24 Sep 2020 16:56:47 +0200</pubDate>
       
-      <guid>https://adrientriquet.github.io/7_lecture/</guid>
+      <guid>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/7_lecture/</guid>
       <description>Let&amp;rsquo;s present 3 ideas of project that could enhance human abilities.
   Let&amp;rsquo;s taste my first idea   This project could help to stop addictions. Though AR, it could change the perception of the object of the addiction. Most of the time, dependency arrive because of habit. A cigarette triggers pleasure because it is always the same.
 Modifying gradually the visual of it could help people stopping.
@@ -156,10 +156,10 @@ This same procedure could help children to like some vegetables for instance.</d
     
     <item>
       <title>Sixth lecture</title>
-      <link>https://adrientriquet.github.io/6_lecture/</link>
+      <link>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/6_lecture/</link>
       <pubDate>Thu, 24 Sep 2020 16:56:43 +0200</pubDate>
       
-      <guid>https://adrientriquet.github.io/6_lecture/</guid>
+      <guid>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/6_lecture/</guid>
       <description>Here I will present a new input device.
 Almost everything changed after this COVID crisis but I had not talked about it yet ! Then, I want to highlight the case of :
 waterproof keyboards Situation Indeed, in every workspace, class and of course medical center, the current issue about infection is everywhere. Our utilisation of computers has changed. It is now more complicated to lend devices. The most relevant examples are keyboards.</description>
@@ -167,40 +167,40 @@ waterproof keyboards Situation Indeed, in every workspace, class and of course m
     
     <item>
       <title>Fifth lecture</title>
-      <link>https://adrientriquet.github.io/5_lecture/</link>
+      <link>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/5_lecture/</link>
       <pubDate>Thu, 24 Sep 2020 16:56:38 +0200</pubDate>
       
-      <guid>https://adrientriquet.github.io/5_lecture/</guid>
+      <guid>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/5_lecture/</guid>
       <description>1965 - Ivan Sutherland writes &amp;lsquo;The Ultimate Display&amp;rsquo;. As depicted by this picture, he had a huge understanding and foreseeing of what could be the future of technology. His system was not as design as google glasses, but nonetheless the idea was already there. Let&amp;rsquo;s take a look to his ideas through his words.
 He started with a description of what already exist in 1965. I will now highlight some of his sentences.</description>
     </item>
     
     <item>
       <title>Fourth lecture</title>
-      <link>https://adrientriquet.github.io/4_lecture/</link>
+      <link>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/4_lecture/</link>
       <pubDate>Thu, 24 Sep 2020 16:56:35 +0200</pubDate>
       
-      <guid>https://adrientriquet.github.io/4_lecture/</guid>
+      <guid>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/4_lecture/</guid>
       <description>Presentation of Zhongshi He   Some students of College of Computer Science in Chongqing University, under the direction of Zhongshi He, published a very interesting paper about speech emotion recognition.
 Zhongshi He received the B.S. degree in applied mathematics and the Ph.D. degree in computer science from Chongqing University, Chongqing, China, in 1987 and in 1996, respectively. He was a Postdoctoral Fellow in the School of Computer Science at the University of Witwatersrand in South Africa from September 1999 to August 2001.</description>
     </item>
     
     <item>
       <title>Third lecture</title>
-      <link>https://adrientriquet.github.io/3_lecture/</link>
+      <link>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/3_lecture/</link>
       <pubDate>Thu, 24 Sep 2020 16:56:31 +0200</pubDate>
       
-      <guid>https://adrientriquet.github.io/3_lecture/</guid>
+      <guid>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/3_lecture/</guid>
       <description>Let&amp;rsquo;s start with a quick definition of dark pattern design : A dark pattern is a user interface that has been designed to deceive or manipulate a user. These graphic choices can also be represented as elements put in place to solicit the user for a longer period and ensure that the latter stays on a service using cognitive biases. (https://fr.wikipedia.org/wiki/Dark_pattern)
   &amp;lsquo;Le Monde&amp;rsquo; subscription   The story : I want to start with a personal example I faced during my preparatory class.</description>
     </item>
     
     <item>
       <title>Second lecture</title>
-      <link>https://adrientriquet.github.io/2_lecture/</link>
+      <link>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/2_lecture/</link>
       <pubDate>Thu, 24 Sep 2020 16:55:50 +0200</pubDate>
       
-      <guid>https://adrientriquet.github.io/2_lecture/</guid>
+      <guid>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/2_lecture/</guid>
       <description>Let&amp;rsquo;s start with a quick definition of Gestalt Principles : Gestalt Principles are principles/laws of human perception that describe how humans group similar elements, recognize patterns and simplify complex images when we perceive objects. Designers use the principles to organize content on websites and other interfaces so it is pleasing and easy to understand. (https://www.interaction-design.org/literature/topics/gestalt-principles)
 Let&amp;rsquo;s discover application of those laws that went wrong !
 The non-erasable pen : I want to take an example, non digital, but depicting the association the brain does easily.</description>
@@ -208,10 +208,10 @@ The non-erasable pen : I want to take an example, non digital, but depicting the
     
     <item>
       <title>First lecture</title>
-      <link>https://adrientriquet.github.io/1_lecture/</link>
+      <link>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/1_lecture/</link>
       <pubDate>Sat, 19 Sep 2020 14:48:26 +0200</pubDate>
       
-      <guid>https://adrientriquet.github.io/1_lecture/</guid>
+      <guid>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/1_lecture/</guid>
       <description>This page aims to show one good and one bad affordance in our daily life.
 Let&amp;rsquo;s start with a quick definition of affordance : A situation where an object’s sensory characteristics intuitively imply its functionality and use. (https://blog.prototypr.io/affordance-and-its-future-in-designing-interfaces-973a48ae8a0)
   Let&amp;rsquo;s start with a good one :   It is difficult to find a device that we use alone for the first time. Indeed, its affordance is, I think, biased as soon as someone shows you how a thing works.</description>
@@ -219,10 +219,10 @@ Let&amp;rsquo;s start with a quick definition of affordance : A situation where 
     
     <item>
       <title>First lab</title>
-      <link>https://adrientriquet.github.io/first_lab/</link>
+      <link>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/first_lab/</link>
       <pubDate>Sat, 19 Sep 2020 14:34:01 +0200</pubDate>
       
-      <guid>https://adrientriquet.github.io/first_lab/</guid>
+      <guid>https://adrientriquet.github.io/AdrienTriquet_UCI.github.io/first_lab/</guid>
       <description>Blog setup   This first lab aims to give us tools. Therefore, I started to fill and create my blog. I chose to use Hugo as advised by our teachers.
 Process I use the quick start of Hugo to create my project. As a mac user, I am used to homebrew and no difficulty occurred : https://gohugo.io/getting-started/quick-start/ All my modifications were then made with Jetbrain&amp;rsquo;s IDE : PHP Storm.</description>
     </item>
